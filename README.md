@@ -1,4 +1,4 @@
-## NYU DevOps Summer 2021 - Supplier
+## DevOps - Supplier
 
 [![Build Status](https://travis-ci.com/nyusuppliers/suppliers.svg?branch=main)](https://travis-ci.com/nyusuppliers/suppliers)
 [![codecov](https://codecov.io/gh/nyusuppliers/suppliers/branch/main/graph/badge.svg?token=VWAL4SIAK2)](https://codecov.io/gh/nyusuppliers/suppliers)
@@ -7,14 +7,6 @@
 
 This project is the back end for an eCommerce web site as a RESTful microservice for the Suppliers. An Supplier is a vendor from whom we get products from. This microservice supports the complete Create, Read, Update, & Delete (CRUD) lifecycle.
 
-## Team Member  
-| Name | Email | Time Zone 
-| :--- | :--- | :--- 
-| Joyce Lu      | (yl6211@nyu.edu)| GMT -5
-| Sayed Rahmann | (ssr8998@nyu.edu)| GMT -5
-| Sindhuja Rao  | (snr6450@nyu.edu)| GMT -5
-| Wenhan Zhang  | (wz1238@nyu.edu)| GMT +8
-| Zunduo Zhao   | (zz3000@nyu.edu)| GMT +8
 
 ## How to access
 
